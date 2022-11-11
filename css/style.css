@@ -1,0 +1,9 @@
+#container-scatole * {
+    width: 80px;
+    height: 80px;
+    background-color: rgb(46, 80, 190);
+    display: flex;
+    flex: 0 0 80px;
+    justify-content: center;
+    align-items: center;
+}
